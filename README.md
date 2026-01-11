@@ -1,2 +1,9 @@
 # LeetCode-Solutions
-A compilation of all my LeetCode solutions...
+Gotta get on that grind...
+
+## 📊 Progress Summary :)
+| Category | Solved |
+| -------- | ------ |
+| 🟢 Easy   | 72     |
+| 🟡 Medium | 16     |
+| 🔴 Hard   | 2      |
