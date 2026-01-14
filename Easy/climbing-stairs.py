@@ -1,5 +1,9 @@
 Easy/climbing-stairs.py
 
+# Nptes:
+# - DP
+# - Same as Fibonnaci Sequence
+
 class Solution:
     def climbStairs(self, n: int) -> int:
         if n == 1:
