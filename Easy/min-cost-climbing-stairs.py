@@ -1,5 +1,8 @@
 Easy/min-cost-climbing-stairs.py
 
+# Notes:
+# - DP
+
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
         n = len(cost)
