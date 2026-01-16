@@ -4,6 +4,6 @@ Gotta get on that grind...
 ## 📊 Progress Summary :)
 | Category | Solved |
 | -------- | ------ |
-| 🟢 Easy   | 74     |
-| 🟡 Medium | 16     |
+| 🟢 Easy   | 75     |
+| 🟡 Medium | 17     |
 | 🔴 Hard   | 2      |
