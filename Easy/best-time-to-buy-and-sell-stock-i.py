@@ -1,4 +1,4 @@
-Easy/best-time-to-buy-and-sell-stock.py
+Easy/best-time-to-buy-and-sell-stock-i.py
 
 # Notes:
 # Keep track of 2 things:
