@@ -5,5 +5,5 @@ Gotta get on that grind...
 | Category | Solved |
 | -------- | ------ |
 | 🟢 Easy   | 76     |
-| 🟡 Medium | 24     |
+| 🟡 Medium | 30     |
 | 🔴 Hard   | 3      |
