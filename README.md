@@ -4,8 +4,8 @@ Gotta get on that grind...
 ## 📊 Progress Summary :)
 | Category | Solved |
 | -------- | ------ |
-| 🟢 Easy   | 80     |
-| 🟡 Medium | 35     |
+| 🟢 Easy   | 81     |
+| 🟡 Medium | 38     |
 | 🔴 Hard   | 3      |
 
-Total: 118
+Total: 122
