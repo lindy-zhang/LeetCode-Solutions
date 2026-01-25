@@ -1,5 +1,4 @@
 # LeetCode-Solutions
-Gotta get on that grind...
 
 ## 📊 Progress Summary :)
 | Category | Solved |
